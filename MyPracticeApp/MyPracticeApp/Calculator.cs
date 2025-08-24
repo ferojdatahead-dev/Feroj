@@ -17,7 +17,7 @@ namespace MyPracticeApp
         double result = 0;
         string operand = "";
         bool isOperationClicked = false;
-        bool isEqualClicked = false;
+        //bool isEqualClicked = false;
         public Calculator()
         {
             InitializeComponent();
@@ -42,11 +42,6 @@ namespace MyPracticeApp
 
         private void Equal_Click(object sender, EventArgs e)
         {
-            if (isEqualClicked)
-            {
-                fristNumber = secoundNumber;
-                isEqualClicked = false;
-            }
             secoundNumber = Double.Parse(resultBox.Text);
             switch (operand)
             {
@@ -64,7 +59,6 @@ namespace MyPracticeApp
                     break;
             }
             resultBox.Text = result.ToString();
-            isEqualClicked = true;
         }
 
         private void allClear_Click(object sender, EventArgs e)

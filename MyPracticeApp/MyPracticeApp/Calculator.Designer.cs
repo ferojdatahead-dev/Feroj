@@ -58,11 +58,12 @@ namespace MyPracticeApp
             // 
             // resultBox
             // 
+            this.resultBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.resultBox.Location = new System.Drawing.Point(10, 12);
-            this.resultBox.Multiline = true;
             this.resultBox.Name = "resultBox";
-            this.resultBox.Size = new System.Drawing.Size(236, 40);
+            this.resultBox.Size = new System.Drawing.Size(236, 38);
             this.resultBox.TabIndex = 0;
+            this.resultBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // tableLayoutPanel1
             // 

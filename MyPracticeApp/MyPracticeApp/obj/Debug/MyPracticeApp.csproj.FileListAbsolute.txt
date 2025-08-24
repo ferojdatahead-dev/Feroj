@@ -8,3 +8,14 @@ C:\Users\User\source\repos\MyPracticeApp\MyPracticeApp\bin\Debug\MyPracticeApp.e
 C:\Users\User\source\repos\MyPracticeApp\MyPracticeApp\bin\Debug\MyPracticeApp.pdb
 C:\Users\User\source\repos\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.exe
 C:\Users\User\source\repos\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.pdb
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\bin\Debug\MyPracticeApp.exe.config
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\bin\Debug\MyPracticeApp.exe
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\bin\Debug\MyPracticeApp.pdb
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.Calculator.resources
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.Properties.Resources.resources
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.exe
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.pdb
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.UserSingUP.resources
