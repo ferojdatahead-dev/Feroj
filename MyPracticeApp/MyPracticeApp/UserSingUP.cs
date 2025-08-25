@@ -43,8 +43,10 @@ namespace MyPracticeApp
                     cmd.ExecuteNonQuery();
                     MessageBox.Show($"Congratulations {nameInput.Text}!!\n" +
                         $"Registration is successful.\n", "Success");
-                    clear();
                 }
+                UserLogin logIn = new UserLogin();
+                this.Hide();
+                logIn.Show();
             }
         }
         private void clear()

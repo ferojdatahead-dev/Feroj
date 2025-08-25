@@ -19,3 +19,5 @@ C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPractic
 C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.exe
 C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.pdb
 C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.UserSingUP.resources
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.Dashboard.resources
+C:\Users\User\source\repos\Feroj\MyPracticeApp\MyPracticeApp\obj\Debug\MyPracticeApp.UserLogin.resources

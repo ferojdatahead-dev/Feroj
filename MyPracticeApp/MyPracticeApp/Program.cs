@@ -16,7 +16,7 @@ namespace MyPracticeApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UserSingUP());
+            Application.Run(new UserLogin());
         }
     }
 }
